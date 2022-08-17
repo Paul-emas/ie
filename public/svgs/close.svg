@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_16429" data-name="Group 16429" transform="translate(-333 -55)">
+    <g id="Group_14520" data-name="Group 14520" transform="translate(333 55)" opacity="0">
+      <path id="Path_62885" data-name="Path 62885" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_62886" data-name="Path 62886" d="M3,4H21V6H3Zm0,7H21v2H3Zm0,7H21v2H3Z"/>
+    </g>
+    <g id="Iconly_Light_Close_Square" data-name="Iconly/Light/Close Square" transform="translate(339 60)">
+      <g id="Close_Square" data-name="Close Square" transform="translate(0)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M12.979,0,0,13.978" transform="translate(0.007 0.006)" fill="none" stroke="#0d3643" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_2" data-name="Stroke 2" d="M12.99,13.993,0,0" fill="none" stroke="#0d3643" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

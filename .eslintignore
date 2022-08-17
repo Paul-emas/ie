@@ -1,0 +1,16 @@
+# .eslintignore uses gitignore syntax.
+/src/node_modules
+/src/.pnp
+/src/.pnp.js
+
+/src/coverage
+
+/src/.next/
+/src/out/
+
+/src/build
+
+.DS_Store
+
+*.log
+.idea/**

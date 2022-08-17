@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="232" height="80" viewBox="0 0 232 80">
+  <defs>
+    <filter id="Button_Bg" x="0" y="0" width="232" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7155" data-name="Group 7155" transform="translate(15349 15646)">
+    <g transform="matrix(1, 0, 0, 1, -15349, -15646)" filter="url(#Button_Bg)">
+      <rect id="Button_Bg-2" data-name="Button Bg" width="202" height="50" rx="8" transform="translate(18 12)" fill="#fff"/>
+    </g>
+    <text id="Shola_s_Meter" data-name="Shola&apos;s Meter" transform="translate(-15279 -15611)" fill="#0d3643" font-size="10" font-family="Helvetica"><tspan x="0" y="0">Shola&apos;s Meter</tspan></text>
+    <g id="Button_Icon_Phone" data-name="Button/Icon/Phone" transform="translate(-15317.192 -15624.192)">
+      <rect id="Button_Bg-3" data-name="Button Bg" width="29" height="29" rx="8" transform="translate(0.192 0.192)" fill="rgba(20,152,82,0.14)"/>
+      <g id="Call_Small" data-name="Call/Small" transform="translate(9.093 9.092)">
+        <path id="Call" d="M.284,1.375C.467,1.071,1.477-.033,2.2,0a.948.948,0,0,1,.561.3,9.77,9.77,0,0,1,1.43,1.935c.14.677-.666,1.067-.419,1.75A5.72,5.72,0,0,0,7.024,7.239c.682.247,1.072-.56,1.749-.419a9.788,9.788,0,0,1,1.935,1.43.95.95,0,0,1,.3.56c.027.759-1.145,1.783-1.374,1.913a2.006,2.006,0,0,1-2.1-.02c-2.393-1-6.216-4.747-7.23-7.23A2.009,2.009,0,0,1,.284,1.375Z" transform="translate(0)" fill="#149852"/>
+      </g>
+    </g>
+    <rect id="Rectangle_3067" data-name="Rectangle 3067" width="127" height="4" rx="2" transform="translate(-15279 -15605)" fill="#f3f7f8"/>
+    <rect id="Rectangle_3068" data-name="Rectangle 3068" width="52" height="4" rx="2" transform="translate(-15279 -15605)" fill="#149852"/>
+  </g>
+</svg>

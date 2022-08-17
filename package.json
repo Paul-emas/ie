@@ -1,0 +1,80 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next --port 4566",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start --port 4567",
+    "test": "jest --watch",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@reduxjs/toolkit": "^1.7.1",
+    "axios": "^0.22.0",
+    "eslint-plugin-react": "^7.25.1",
+    "flickity": "^2.2.2",
+    "gsap": "^3.8.0",
+    "html2canvas": "^1.4.1",
+    "is-email": "^1.0.2",
+    "js-cookie": "^3.0.1",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.1",
+    "next": "^12.2.5",
+    "react": "^17.0.2",
+    "react-code-input": "^3.10.1",
+    "react-confetti": "^6.0.1",
+    "react-device-detect": "^2.1.2",
+    "react-dom": "^17.0.2",
+    "react-flickity-component": "^3.6.2",
+    "react-hook-form": "^7.15.2",
+    "react-hot-toast": "^2.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-paginate": "^8.1.0",
+    "react-paystack": "^3.0.5",
+    "react-phone-input-2": "^2.14.0",
+    "react-pin-input": "^1.3.0",
+    "react-redux": "^7.2.6",
+    "react-use": "^17.3.1",
+    "recharts": "^2.1.2",
+    "redux-persist": "^6.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
+    ],
+    "*.{html,css,less,ejs}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.2",
+    "autoprefixer": "^10.4.0",
+    "babel-jest": "^27.2.5",
+    "cssnano": "5.1.1",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "husky": "^7.0.4",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.2.5",
+    "lint-staged": "^11.1.2",
+    "postcss": "^8.4.4",
+    "prettier": "^2.3.2",
+    "prettier-plugin-tailwindcss": "^0.1.4",
+    "react-test-renderer": "^17.0.2",
+    "tailwindcss": "^3.0.1"
+  }
+}

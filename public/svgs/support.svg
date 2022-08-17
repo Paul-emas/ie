@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="support_agent_black_24dp" transform="translate(0 0)">
+    <g id="Group_3326" data-name="Group 3326">
+      <rect id="Rectangle_848" data-name="Rectangle 848" width="40" height="40" transform="translate(0 0)" fill="none"/>
+    </g>
+    <g id="Group_3328" data-name="Group 3328" transform="translate(2.975 4.677)">
+      <g id="Group_3327" data-name="Group 3327">
+        <path id="Path_38063" data-name="Path 38063" d="M34.348,18.7A15.328,15.328,0,1,0,3.7,18.8,3.35,3.35,0,0,0,2,21.728v3.405a3.415,3.415,0,0,0,3.405,3.405h1.7V18.152a11.918,11.918,0,0,1,23.835,0V30.24H17.323v3.405h13.62a3.415,3.415,0,0,0,3.405-3.405V28.163a3.148,3.148,0,0,0,1.7-2.792V21.455A3.135,3.135,0,0,0,34.348,18.7Z" transform="translate(-2 -3)" fill="#347f95"/>
+        <ellipse id="Ellipse_1851" data-name="Ellipse 1851" cx="2" cy="1.5" rx="2" ry="1.5" transform="translate(10.025 15.323)" fill="#347f95"/>
+        <ellipse id="Ellipse_1852" data-name="Ellipse 1852" cx="2" cy="1.5" rx="2" ry="1.5" transform="translate(20.025 15.323)" fill="#347f95"/>
+        <path id="Path_38064" data-name="Path 38064" d="M26.426,14.564a10.282,10.282,0,0,0-20.4,2.418A13.747,13.747,0,0,0,14.3,6.953,13.683,13.683,0,0,0,26.426,14.564Z" transform="translate(0.814 -0.892)" fill="#347f95"/>
+      </g>
+    </g>
+  </g>
+</svg>
